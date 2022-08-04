@@ -1,0 +1,55 @@
+{
+  "products": [
+    {
+      "desc": "milk",
+      "price": "2",
+      "id": 1
+    },
+    {
+      "desc": "yugort",
+      "price": "20",
+      "id": 2
+    },
+    {
+      "desc": "yishai",
+      "price": "100$",
+      "id": 3
+    }
+  ],
+  "customerCart": [
+    {
+      "desc": "milk",
+      "price": "2",
+      "id": 1
+    },
+    {
+      "desc": "yugort",
+      "price": "20",
+      "id": 2
+    },
+    {
+      "desc": "yishai",
+      "price": "100$",
+      "id": 3
+    }
+  ],
+  "checkout": [
+    [
+      {
+        "desc": "milk",
+        "price": "2",
+        "id": 1
+      },
+      {
+        "desc": "yugort",
+        "price": "20",
+        "id": 2
+      },
+      {
+        "desc": "yishai",
+        "price": "100$",
+        "id": 3
+      }
+    ]
+  ]
+}
